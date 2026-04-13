@@ -26,6 +26,8 @@ Key metrics tracked:
 - Inventory turnover
 - Stockout occurrences
 
+All data used in this project is simulated within the analysis script.
+
 
 ## Key Findings
 
