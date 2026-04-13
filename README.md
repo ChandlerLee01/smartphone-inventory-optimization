@@ -11,6 +11,13 @@ Overproduction in smartphone manufacturing leads to excess inventory, increasing
 In this project, a production system is simulated to analyze how forecasting errors, safety stock policies, and communication gaps contribute to inventory buildup.
 
 
+## Inventory Accumulation
+
+Inventory levels increase steadily over time due to overproduction:
+
+![Inventory Trend](plots/inventory_trend.png)
+
+
 ## Data and Simulation
 
 A 30-day production system was simulated to reflect real-world manufacturing conditions:
@@ -62,6 +69,13 @@ Simulation results show significant improvements after implementing changes:
 - Safety stock reduction improved efficiency with minimal stockout risk
 
 These results demonstrate that small adjustments in production policy can lead to substantial operational gains.
+
+
+## Visualization
+
+Process improvements significantly reduced inventory while improving turnover performance:
+
+![Improvement Impact](plots/improvement_impact.png)
 
 
 ## Key Takeaways
